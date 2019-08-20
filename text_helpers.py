@@ -1,7 +1,5 @@
-# Text Helper Functions
-#---------------------------------------
-#
-# We pull out text helper functions to reduce redundant code
+# This file will process all text related job. Like downloading dataset,
+# create context word ary, and target word ary.......
 
 import string
 import os

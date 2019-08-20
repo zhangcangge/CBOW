@@ -1,11 +1,6 @@
-# Word2Vec: CBOW Model (Continuous Bag of Words)
-#---------------------------------------
-#
-# In this example, we will download and preprocess the movie
-#  review data.
-#
-# From this data set we will compute/fit the CBOW model of
-#  the Word2Vec Algorithm
+
+# This program will download and preprocess the movie
+#  review data. And Use it to training CBOW Model
 import tensorflow as tf
 import matplotlib.pyplot as plt
 import numpy as np
