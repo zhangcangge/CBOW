@@ -12,7 +12,7 @@ The input is the sum of all context words embedding vector.
 
 The target word is the middle word in the context words. This part of code in the following graph.
 
-<img src="https://github.com/zhangcangge/CBOW/blob/master/image/kernel_change.jpg" width="400" height="350" />
+<img src="https://github.com/zhangcangge/CBOW/blob/master/image/kernel_change.jpg" width="600" height="300" />
 
 This program use a different way to embedding words.
 
